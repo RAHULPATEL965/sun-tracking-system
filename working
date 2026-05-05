@@ -1,0 +1,6 @@
+## Working
+ ## Working
+
+The Automatic Sun Tracking System uses LDR sensors to detect sunlight intensity and automatically adjusts the position of the solar panel using a servo motor controlled by an Arduino. The system continuously tracks the direction of maximum sunlight to improve solar energy efficiency.
+
+The project supports both Automatic and Manual modes. In Automatic mode, the panel follows sunlight automatically based on sensor readings, while in Manual mode, users can control the panel direction using switches or buttons for flexible operation.
